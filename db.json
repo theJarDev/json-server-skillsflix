@@ -10,19 +10,19 @@
         "name": "Back End",
         "description": "Videos que me han ayudado a mejorar mi conocimiento en el back end",
         "color": "#00c86f",
-        "id": "12345"
+        "id": "54321"
     },
     {
         "name": "Soft Skills",
         "description": "Videos que me han ayudado a mejorar mi conocimiento en Soft Skills",
         "color": "#ff8c2a",
-        "id": "12345"
+        "id": "13524"
     },
     {
         "name": "Data Science",
         "description": "Videos que planeo ver para adentrarme en el data science",
         "color": "#9cd33b",
-        "id": "12345"
+        "id": "24135"
     }
   ],
   "videos": [
@@ -32,7 +32,7 @@
         "image": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
         "category": "Front End",
         "description": "jaksskjsa",
-        "id": "12345"
+        "id": "98765"
     },
     {
         "title": "¿Qué es JavaScript?",
@@ -40,7 +40,7 @@
         "image": "https://i.ytimg.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
         "category": "Front End",
         "description": "kacksdnc",
-        "id": "12345"
+        "id": "56789"
     },
     {
         "title": "Spring Framework",
@@ -48,7 +48,7 @@
         "image": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
         "category": "Back End",
         "description": "adadasfcvdascv",
-        "id": "12345"
+        "id": "97586"
     },
     {
         "title": "¿Qué es SQL y NoSQL?",
@@ -56,7 +56,7 @@
         "image": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
         "category": "Back End",
         "description": "asfvsrvfrfr",
-        "id": "12345"
+        "id": "86975"
     },
     {
         "title": "Simplificando tu código en Java: Conoce los enum",
@@ -64,7 +64,7 @@
         "image": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
         "category": "Back End",
         "description": "cjnsdnbcjd",
-        "id": "12345"
+        "id": "01010"
     },
     {
         "title": "¿Por qué utilizar Java actualmente?",
@@ -72,7 +72,7 @@
         "image": "https://i.ytimg.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
         "category": "Backend",
         "description": "cdskjndjc",
-        "id": "12345"
+        "id": "22222"
     },
     {
         "title": "¿Qué son las Soft Skills?",
@@ -80,7 +80,7 @@
         "image": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
         "category": "Soft Skills",
         "description": "djadncdaa",
-        "id": "12345"
+        "id": "77777"
     },
     {
         "title": "Equipo Front End",
@@ -88,7 +88,7 @@
         "image": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
         "category": "Front End",
         "description": "cdjknscdds",
-        "id": "12345"
+        "id": "69696"
     },
     {
         "title": "7 Soft Skills más deseadas por las empresas",
@@ -96,7 +96,7 @@
         "image": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
         "category": "Soft Skills",
         "description": "ewfrgvrefrf",
-        "id": "12345"
+        "id": "13790"
     },
     {
         "title": "¿Cómo un desarrollador Front End utiliza el Figma?",
@@ -104,7 +104,7 @@
         "image": "https://i.ytimg.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
         "category": "Front End",
         "description": "cdasdcascd",
-        "id": "12345"
+        "id": "44444"
     }
   ]
 }
