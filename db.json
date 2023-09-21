@@ -3,25 +3,25 @@
     {
         "name": "Front End",
         "description": "Videos que me han ayudado a mejorar mi conocimiento en el front end",
-        "color": "#6BD1FF",
+        "color": "#6bd1ff",
         "id": "12345"
     },
     {
         "name": "Back End",
         "description": "Videos que me han ayudado a mejorar mi conocimiento en el back end",
-        "color": "#00C86F",
+        "color": "#00c86f",
         "id": "12345"
     },
     {
         "name": "Soft Skills",
         "description": "Videos que me han ayudado a mejorar mi conocimiento en Soft Skills",
-        "color": "#FF8C2A",
+        "color": "#ff8c2a",
         "id": "12345"
     },
     {
         "name": "Data Science",
         "description": "Videos que planeo ver para adentrarme en el data science",
-        "color": "#9CD33B",
+        "color": "#9cd33b",
         "id": "12345"
     }
   ],
