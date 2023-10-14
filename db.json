@@ -1,110 +1,214 @@
 {
   "categories": [
     {
-        "name": "Front End",
-        "description": "Videos que me han ayudado a mejorar mi conocimiento en el front end",
-        "color": "#6bd1ff",
-        "id": "12345"
+      "name": "Front End",
+      "description": "Videos que me han ayudado a mejorar mi conocimiento en el front end",
+      "color": "#6bd1ff",
+      "id": "12345"
     },
     {
-        "name": "Back End",
-        "description": "Videos que me han ayudado a mejorar mi conocimiento en el back end",
-        "color": "#00c86f",
-        "id": "54321"
+      "name": "Back End",
+      "description": "Videos que me han ayudado a mejorar mi conocimiento en el back end",
+      "color": "#00c86f",
+      "id": "54321"
     },
     {
-        "name": "Soft Skills",
-        "description": "Videos que me han ayudado a mejorar mi conocimiento en Soft Skills",
-        "color": "#ff8c2a",
-        "id": "13524"
+      "name": "Soft Skills",
+      "description": "Videos que me han ayudado a mejorar mi conocimiento en Soft Skills",
+      "color": "#ff8c2a",
+      "id": "13524"
     },
     {
-        "name": "Data Science",
-        "description": "Videos que planeo ver para adentrarme en el data science",
-        "color": "#9cd33b",
-        "id": "24135"
+      "name": "Data Science",
+      "description": "Videos que planeo ver para adentrarme en el data science",
+      "color": "#9cd33b",
+      "id": "24135"
+    },
+    {
+      "name": "Marketing",
+      "description": "Videos gratuitos para aprender sobre marketing digital",
+      "color": "#b365d7",
+      "id": "30923"
+    },
+    {
+      "name": "Ingles",
+      "description": "Videos gratuitos para aprender sobre ingles",
+      "color": "#c874a9",
+      "id": "78239"
+    },
+    {
+      "name": "DevOps",
+      "description": "Videos gratuitos para aprender sobre devops",
+      "color": "#806733",
+      "id": "84233"
+    },
+    {
+      "name": "Emprendimiento",
+      "description": "Videos gratuitos para aprender sobre emprendimiento",
+      "color": "#763737",
+      "id": "74289"
     }
   ],
   "videos": [
     {
-        "title": "¿Cuándo usar let, var y const?",
-        "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
-        "image": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
-        "category": "Front End",
-        "description": "jaksskjsa",
-        "id": "98765"
+      "title": "¿Cuándo usar let, var y const?",
+      "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "image": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "id": "98765"
     },
     {
-        "title": "¿Qué es JavaScript?",
-        "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
-        "image": "https://i.ytimg.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
-        "category": "Front End",
-        "description": "kacksdnc",
-        "id": "56789"
+      "title": "¿Qué es JavaScript?",
+      "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "image": "https://i.ytimg.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "kacksdnc",
+      "id": "56789"
     },
     {
-        "title": "Spring Framework",
-        "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
-        "image": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
-        "category": "Back End",
-        "description": "adadasfcvdascv",
-        "id": "97586"
+      "title": "Spring Framework",
+      "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "image": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+      "id": "97586"
     },
     {
-        "title": "¿Qué es SQL y NoSQL?",
-        "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
-        "image": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
-        "category": "Back End",
-        "description": "asfvsrvfrfr",
-        "id": "86975"
+      "title": "¿Qué es SQL y NoSQL?",
+      "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "image": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "asfvsrvfrfr",
+      "id": "86975"
     },
     {
-        "title": "Simplificando tu código en Java: Conoce los enum",
-        "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
-        "image": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
-        "category": "Back End",
-        "description": "cjnsdnbcjd",
-        "id": "01010"
+      "title": "Simplificando tu código en Java: Conoce los enum",
+      "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "image": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "cjnsdnbcjd",
+      "id": "01010"
     },
     {
-        "title": "¿Por qué utilizar Java actualmente?",
-        "video": "https://www.youtube.com/watch?v=3kNuK-XAHEY",
-        "image": "https://i.ytimg.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
-        "category": "Backend",
-        "description": "cdskjndjc",
-        "id": "22222"
+      "title": "¿Por qué utilizar Java actualmente?",
+      "video": "https://www.youtube.com/watch?v=3kNuK-XAHEY",
+      "image": "https://i.ytimg.com/vi/3kNuK-XAHEY/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "cdskjndjc",
+      "id": "22222"
     },
     {
-        "title": "¿Qué son las Soft Skills?",
-        "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
-        "image": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
-        "category": "Soft Skills",
-        "description": "djadncdaa",
-        "id": "77777"
+      "title": "¿Qué son las Soft Skills?",
+      "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "image": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+      "category": "Soft Skills",
+      "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "id": "77777"
     },
     {
-        "title": "Equipo Front End",
-        "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
-        "image": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
-        "category": "Front End",
-        "description": "cdjknscdds",
-        "id": "69696"
+      "title": "Equipo Front End",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "image": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "cdjknscdds",
+      "id": "69696"
     },
     {
-        "title": "7 Soft Skills más deseadas por las empresas",
-        "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
-        "image": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
-        "category": "Soft Skills",
-        "description": "ewfrgvrefrf",
-        "id": "13790"
+      "title": "7 Soft Skills más deseadas por las empresas",
+      "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "image": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+      "category": "Soft Skills",
+      "description": "ewfrgvrefrf",
+      "id": "13790"
     },
     {
-        "title": "¿Cómo un desarrollador Front End utiliza el Figma?",
-        "video": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
-        "image": "https://i.ytimg.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
-        "category": "Front End",
-        "description": "cdasdcascd",
-        "id": "44444"
+      "title": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "video": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "image": "https://i.ytimg.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "cdasdcascd",
+      "id": "44444"
+    },
+    {
+      "title": "¿Por qué estudiar Data Science?",
+      "video": "https://www.youtube.com/watch?v=7_UXo-aqAeM",
+      "image": "https://i.ytimg.com/vi/7_UXo-aqAeM/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Estudiando Data Science podras crar modelos de aprendizaje automático para descubrir nuevos insights y resolver problemas de negocio complejos.",
+      "id": "72348"
+    },
+    {
+      "title": "Python para Data Science",
+      "video": "https://www.youtube.com/watch?v=JMKZMa0tMhQ",
+      "image": "https://i.ytimg.com/vi/JMKZMa0tMhQ/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Introduccion al lenguaje python enfocado a la ciencia de datos",
+      "id": "87934"
+    },
+    {
+      "title": "¿Por qué utilizar React?",
+      "video": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+      "image": "https://i.ytimg.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "huvjsvohrsvfv",
+      "id": "82932"
+    },
+    {
+      "title": "Explorando el poder del Back-End",
+      "video": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "image": "https://i.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "hjsdcfkjusdh",
+      "id": "98421"
+    },
+    {
+      "title": "Soft skills necesarias para trabajar",
+      "video": "https://www.youtube.com/watch?v=7lnmW8fB0nM",
+      "image": "https://i.ytimg.com/vi/7lnmW8fB0nM/maxresdefault.jpg",
+      "category": "Soft Skills",
+      "description": "sjhfvrdujvf",
+      "id": "97823"
+    },
+    {
+      "title": "Comunicación en el día a día",
+      "video": "https://www.youtube.com/watch?v=pOYyav4qx7o",
+      "image": "https://i.ytimg.com/vi/pOYyav4qx7o/maxresdefault.jpg",
+      "category": "Soft Skills",
+      "description": "hfewkofefwcv",
+      "id": "02389"
+    },
+    {
+      "title": "¿Qué son las metodologias ágiles?",
+      "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "image": "https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "category": "Soft Skills",
+      "description": "bjkcvhdsjkvcds",
+      "id": "78923"
+    },
+    {
+      "title": "Descubre el poder del Machine Learning",
+      "video": "https://www.youtube.com/watch?v=edS0Fhg0xyM",
+      "image": "https://i.ytimg.com/vi/edS0Fhg0xyM/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "sjihvgosrfv",
+      "id": "02835"
+    },
+    {
+      "title": "Descomplicando Base de Datos",
+      "video": "https://www.youtube.com/watch?v=G1cDRqKuxpg",
+      "image": "https://i.ytimg.com/vi/G1cDRqKuxpg/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "hnjrkslfgvvs",
+      "id": "08359"
+    },
+    {
+      "title": "Descubre el poder de Python",
+      "video": "https://www.youtube.com/watch?v=BxcMMgmLKTU",
+      "image": "https://i.ytimg.com/vi/BxcMMgmLKTU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "voujshdfdsd",
+      "id": "79423"
     }
   ]
 }
